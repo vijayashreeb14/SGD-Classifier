@@ -56,6 +56,8 @@ RegisterNumber:  212223040238
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/3ba5f613-6226-4c2e-aa00-8107ef46f901)
+
 ![image](https://github.com/user-attachments/assets/20e2be96-8e6a-4a1b-bc4e-33cb2e002e20)
 
 ![image](https://github.com/user-attachments/assets/8a0496fa-38a7-4ffe-b4bf-72c3b3600518)
